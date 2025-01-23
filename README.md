@@ -1,6 +1,6 @@
 # Meserszmit Chat App
 
-![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/Meserszmit_chat_app.png){ width="950" height="150" style="display: block; margin: 0 auto" }
+![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/Meserszmit_chat_app.png)
 
 
 Meserszmit Chat App is a simple and modern real-time chat application that allows users to communicate seamlessly. This project demonstrates core concepts of web development, real-time communication, and user authentication. Inspired be Messenger chat application from meta, developed By WWasilew
@@ -9,10 +9,10 @@ Meserszmit Chat App is a simple and modern real-time chat application that allow
 
 Very simple to use! Just type your username to join the chat!
 
-![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/meserszmit_logging.png) { width="800" height="600" style="display: block; margin: 0 auto" }
+![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/meserszmit_logging.png) 
 
 ## Just chat with others!
-![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/chat.png) { width="800" height="600" style="display: block; margin: 0 auto" }
+![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/chat.png)
 
 # Features
 
