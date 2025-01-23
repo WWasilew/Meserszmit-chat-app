@@ -3,7 +3,7 @@
 ![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/Meserszmit_chat_app.png)
 
 
-Meserszmit Chat App is a simple and modern real-time chat application that allows users to communicate seamlessly. This project demonstrates core concepts of web development, real-time communication, and user authentication. Inspired be Messenger chat application from meta, developed By WWasilew
+Meserszmit Chat App is a simple and modern real-time chat application that allows users to communicate seamlessly. This project demonstrates core concepts of web development, real-time communication, and user authentication. Inspired be Messenger chat application from Meta, developed by WWasilew.
 
 ## How does it look like?
 
