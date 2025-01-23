@@ -2,7 +2,7 @@
 
 
 
-Meserszmit Chat App is a simple and modern real-time chat application that allows users to communicate seamlessly. This project demonstrates core concepts of web development, real-time communication, and user authentication.
+Meserszmit Chat App is a simple and modern real-time chat application that allows users to communicate seamlessly. This project demonstrates core concepts of web development, real-time communication, and user authentication. Inspired be Messenger chat application from meta, developed By WWasilew
 
 # Features
 
