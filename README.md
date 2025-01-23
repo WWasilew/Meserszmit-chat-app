@@ -12,7 +12,7 @@ Very simple to use! Just type your username to join the chat!
 ![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/meserszmit_logging.png) 
 
 ## Just chat with others!
-![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/chat.png)
+![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/69b67adafddda8a8decac6b78c0e2d8569635e51/meserszmit_chat/chat/chat/chat.png)
 
 # Features
 
