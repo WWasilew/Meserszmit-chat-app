@@ -50,7 +50,7 @@ PORT=9090
 MONGO_URI=your-mongodb-uri
 JWT_SECRET=your-secret-key
 ````
-##Running the Application
+## Running the Application
 
 1. Start the development server:
 ````bash
