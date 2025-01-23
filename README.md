@@ -8,6 +8,7 @@ Meserszmit Chat App is a simple and modern real-time chat application that allow
 ## How does it look like?
 
 Very simple to use! Just type your username to join the chat!
+
 ![image alt](https://github.com/WWasilew/Meserszmit-chat-app/blob/c1d5ee84c997064af517e963f1c1a9afe1f1b4eb/meserszmit_chat/chat/chat/meserszmit_logging.png)
 
 ## Just chat with others!
